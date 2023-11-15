@@ -26,7 +26,7 @@ This project forecasts daily sales for multiple store-item combinations using hi
    ![Monthly Sales](Images/total_sales_by_month.png)
 
 5. **Average Sales by Day of Week**  
-   ![Sales by Weekday](Images/avg_sales_by_day_of_week.png)
+   ![Sales by Weekday](Images/average_sales_by_day_of_week.png)
 
 6. **Average Sales per Item per Store**  
    ![Store Item Heatmap](Images/avg_sales_per_item_per_store.png)
