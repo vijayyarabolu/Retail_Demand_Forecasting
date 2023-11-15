@@ -14,7 +14,7 @@ This project forecasts daily sales for multiple store-item combinations using hi
 ## 📊 Visualizations
 
 1. **Forecasted Daily Sales Over Time by Store (Filtered by Item)**  
-   ![Sales Over Time](forecasted_sales_over_time_by_store.png)
+   ![Sales Over Time](Images/forecasted_sales_over_time_linechart.png)
 
 2. **Total Forecasted Sales by Store**  
    ![Sales by Store](Images/total_sales_by_store.png)
