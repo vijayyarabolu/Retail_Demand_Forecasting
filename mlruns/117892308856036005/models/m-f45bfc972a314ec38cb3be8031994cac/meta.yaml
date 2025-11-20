@@ -1,0 +1,10 @@
+artifact_location: file:///Users/vijay/Desktop/Data%20Projects/New%20Resume%20Projects/Retail_Demand_Forecasting/mlruns/117892308856036005/models/m-f45bfc972a314ec38cb3be8031994cac/artifacts
+creation_timestamp: 1763607656666
+experiment_id: '117892308856036005'
+last_updated_timestamp: 1763607659012
+model_id: m-f45bfc972a314ec38cb3be8031994cac
+model_type: null
+name: model
+source_run_id: 24aa735b519147da81286df4b8f9217c
+status: 2
+status_message: null
